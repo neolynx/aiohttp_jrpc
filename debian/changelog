@@ -1,3 +1,9 @@
+aiohttp-jrpc (0.1.0-1.buster) stable; urgency=medium
+
+  * build for buster
+
+ -- André Roth <neolynx@gmail.com>  Sat, 17 Aug 2019 22:18:57 +0200
+
 aiohttp-jrpc (0.1.0-1) stable; urgency=medium
 
   * use async instead of coroutine
