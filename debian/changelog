@@ -1,3 +1,9 @@
+aiohttp-jrpc (0.1.0-2) stable; urgency=medium
+
+  * build also for stretch
+
+ -- André Roth <neolynx@gmail.com>  Sun, 08 Sep 2019 22:18:10 +0200
+
 aiohttp-jrpc (0.1.0-1.buster) stable; urgency=medium
 
   * build for buster
